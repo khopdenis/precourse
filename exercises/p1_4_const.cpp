@@ -11,6 +11,7 @@ void byValue(BigStruct s){
 
 void byConstReference(const BigStruct& s){
     std::cout << "in "<< &s << std::endl;
+    //s.data[0] = 1; // error: cannot assign to variable 's' with const-qualified type 'const BigStruct &'
 };
 
 

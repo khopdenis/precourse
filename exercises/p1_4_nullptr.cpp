@@ -10,6 +10,9 @@ int main(){
         int b = *p;
         std::cout << b;
     }
+
+    int b = *p;
+    std::cout << b;
     
     
     return 0;
