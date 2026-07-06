@@ -5,11 +5,11 @@ int main(){
     int* p = &a;
     p = nullptr;
     std::cout << p;
-    if (p)
-    {
-        int b = *p;
-        std::cout << b;
-    }
+   
+
+    int b = *p;
+    std::cout << b;
+    
     
     return 0;
 }
