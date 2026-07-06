@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/dkhopriachkov/gpu_education/code/precourse/build-asan/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

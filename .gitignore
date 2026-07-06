@@ -13,3 +13,6 @@ CMakeUserPresets.json
 
 build/
 build-asan/
+
+# macOS
+.DS_Store
