@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/dkhopriachkov/gpu_education/code/precourse/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/hello.dir/src/main.cpp.o -c /Users/dkhopriachkov/gpu_education/code/precourse/src/main.cpp",
+  "file": "/Users/dkhopriachkov/gpu_education/code/precourse/src/main.cpp",
+  "output": "CMakeFiles/hello.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/dkhopriachkov/gpu_education/code/precourse/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/00_smoke_test.dir/exercises/00_smoke_test.cpp.o -c /Users/dkhopriachkov/gpu_education/code/precourse/exercises/00_smoke_test.cpp",
+  "file": "/Users/dkhopriachkov/gpu_education/code/precourse/exercises/00_smoke_test.cpp",
+  "output": "CMakeFiles/00_smoke_test.dir/exercises/00_smoke_test.cpp.o"
+}
+]

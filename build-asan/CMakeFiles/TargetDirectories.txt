@@ -1,0 +1,4 @@
+/Users/dkhopriachkov/gpu_education/code/precourse/build-asan/CMakeFiles/hello.dir
+/Users/dkhopriachkov/gpu_education/code/precourse/build-asan/CMakeFiles/00_smoke_test.dir
+/Users/dkhopriachkov/gpu_education/code/precourse/build-asan/CMakeFiles/edit_cache.dir
+/Users/dkhopriachkov/gpu_education/code/precourse/build-asan/CMakeFiles/rebuild_cache.dir
